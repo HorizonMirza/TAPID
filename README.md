@@ -57,6 +57,19 @@ B01 booth concept in Espresso and Ivory.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | `#3F281F` | `#8B5A3C` | `#C59A70` | `#E3D3BD` | `#F6F0E7` | `#000000` | `#FFFFFF` |
 
+### Motion Video
+
+Four portrait motion designs with music and scan effects, each available as a 15-second video and a 30-minute exhibition loop.
+
+| Design | 15 seconds | 30 minutes |
+| --- | :---: | :---: |
+| 13 · Silver Flow | [MP4](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) | [MP4](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4) |
+| 17 · Smoke Light | [MP4](7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4) | [MP4](7%20%20Motion%20Video/30%20Minutes/17.%20Smoke%20Light%20-%2030%20Minutes.mp4) |
+| 18 · Ivory Shine | [MP4](7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4) | [MP4](7%20%20Motion%20Video/30%20Minutes/18.%20Ivory%20Shine%20-%2030%20Minutes.mp4) |
+| 20 · Black Gold | [MP4](7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4) | [MP4](7%20%20Motion%20Video/30%20Minutes/20.%20Black%20Gold%20-%2030%20Minutes.mp4) |
+
+The full 30-minute MP4 files are stored on GitHub using [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage). When cloning this repository, install Git LFS and run `git lfs pull` to retrieve those videos.
+
 ### Asset Folders
 
 | Folder | Contents | Files |
@@ -67,6 +80,7 @@ B01 booth concept in Espresso and Ivory.
 | [04. Cards Design](https://github.com/HorizonMirza/TAPID/tree/main/04.%20Cards%20Design) | 28 print images and 14 mockups | 42 |
 | [05. Color Palette](https://github.com/HorizonMirza/TAPID/tree/main/05.%20Color%20Palette) | Final brand color palette | 1 |
 | [06. Logo](https://github.com/HorizonMirza/TAPID/tree/main/06.%20Logo) | Symbols, wordmarks and transparent versions | 14 |
-| **Total** | **107 PNG · 6 SVG · 4 PDF** | **117** |
+| [7  Motion Video](https://github.com/HorizonMirza/TAPID/tree/main/7%20%20Motion%20Video) | 4 short videos and 4 full 30-minute loops | 8 |
+| **Total** | **107 PNG · 6 SVG · 4 PDF · 8 MP4** | **125** |
 
 [Open Google Drive](https://drive.google.com/drive/folders/1gf0f-z-4uAVuuePL4lLbPGWla0QeRjrs)
