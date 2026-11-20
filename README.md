@@ -4,6 +4,15 @@ TAP ID cards, leather cases, packaging and booths in seven Saddle Signature colo
 
 ### Leather Card Cases
 
+<img src="01.%20Casing%20Card%20Design/Casing%20Design%20Final/01.%20Casing%20Design%20Final%203D.png" alt="Final TAP ID caramel leather casing, front and back, with dark stitching and recessed logo" width="960">
+
+Final casing: caramel leather, dark perimeter stitching, a recessed TAP ID logo on the front and a plain back.
+
+[Casing Design Final](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design/Casing%20Design%20Final)
+
+<details>
+<summary>Earlier C01 studies and technical files</summary>
+
 | C01 A · Permanent | C01 B · Removable |
 | :---: | :---: |
 | <img src="01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images/02.%20Permanen%20Saddle%20Brown.png" alt="C01 A · Permanent" width="480"> | <img src="01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images/09.%20Lepas%20Saddle%20Brown.png" alt="C01 B · Removable" width="480"> |
@@ -11,6 +20,8 @@ TAP ID cards, leather cases, packaging and booths in seven Saddle Signature colo
 Thin genuine leather with lining and a recessed, color-filled debossed logo.
 
 [14 case mockups](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images) · [Exploded layers](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design/02%20-%20Exploded%20Layers%20-%202%20Examples) · [2D technical drawings](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design/03%20-%202D%20Technical%20-%2014%20Images) · [Patterns and deboss artwork](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design/04%20-%20Patterns%20and%20Deboss%20Artwork%20-%201to1)
+
+</details>
 
 ### Packaging
 
@@ -50,12 +61,12 @@ B01 booth concept in Espresso and Ivory.
 
 | Folder | Contents | Files |
 | --- | --- | ---: |
-| [01. Casing Card Design](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design) | Mockups, layers, technical drawings and patterns | 36 |
+| [01. Casing Card Design](https://github.com/HorizonMirza/TAPID/tree/main/01.%20Casing%20Card%20Design) | Final casing, earlier mockups, layers, technical drawings and patterns | 37 |
 | [02. Packaging Design](https://github.com/HorizonMirza/TAPID/tree/main/02.%20Packaging%20Design) | 14 mockups, 2 layer views and 2 vendor PDFs | 18 |
 | [03. Booth Design](https://github.com/HorizonMirza/TAPID/tree/main/03.%20Booth%20Design) | 2 mockups, PNG/SVG floor plans and catalog | 5 |
 | [04. Cards Design](https://github.com/HorizonMirza/TAPID/tree/main/04.%20Cards%20Design) | 28 print images and 14 mockups | 42 |
 | [05. Color Palette](https://github.com/HorizonMirza/TAPID/tree/main/05.%20Color%20Palette) | Final brand color palette | 1 |
 | [06. Logo](https://github.com/HorizonMirza/TAPID/tree/main/06.%20Logo) | Symbols, wordmarks and transparent versions | 14 |
-| **Total** | **106 PNG · 6 SVG · 4 PDF** | **116** |
+| **Total** | **107 PNG · 6 SVG · 4 PDF** | **117** |
 
 [Open Google Drive](https://drive.google.com/drive/folders/1gf0f-z-4uAVuuePL4lLbPGWla0QeRjrs)
