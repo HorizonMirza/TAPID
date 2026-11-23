@@ -10,19 +10,6 @@ Brand and product design assets for TAP ID, featuring the Saddle Signature palet
 
 Caramel leather, dark perimeter stitching and a recessed TAP ID logo. The back stays plain.
 
-[View final design](01.%20Casing%20Card%20Design/Casing%20Design%20Final/) · [Browse casing assets](01.%20Casing%20Card%20Design/)
-
-<details>
-<summary>Earlier C01 studies and technical references</summary>
-
-| C01 A · Permanent | C01 B · Removable |
-| :---: | :---: |
-| <img src="01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images/02.%20Permanen%20Saddle%20Brown.png" alt="Earlier permanent C01 casing study" width="480"> | <img src="01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images/09.%20Lepas%20Saddle%20Brown.png" alt="Earlier removable C01 casing study" width="480"> |
-
-[14 exterior mockups](01.%20Casing%20Card%20Design/01%20-%203D%20Exterior%20-%2014%20Images/) · [2 exploded views](01.%20Casing%20Card%20Design/02%20-%20Exploded%20Layers%20-%202%20Examples/) · [14 technical drawings](01.%20Casing%20Card%20Design/03%20-%202D%20Technical%20-%2014%20Images/) · [Patterns and deboss artwork](01.%20Casing%20Card%20Design/04%20-%20Patterns%20and%20Deboss%20Artwork%20-%201to1/)
-
-</details>
-
 ## 02. Packaging Design
 
 | P08 · Corner Portfolio | P02 · Signature Book Box |
@@ -30,8 +17,6 @@ Caramel leather, dark perimeter stitching and a recessed TAP ID logo. The back s
 | <img src="02.%20Packaging%20Design/02.%20P08%20Saddle%20Brown.png" alt="P08 Corner Portfolio packaging" width="480"> | <img src="02.%20Packaging%20Design/09.%20P02%20Saddle%20Brown.png" alt="P02 Signature Book Box packaging" width="480"> |
 
 Two packaging formats in seven colors, with exploded views and vendor guides.
-
-[Browse packaging assets](02.%20Packaging%20Design/)
 
 ## 03. Booth Design
 
@@ -41,8 +26,6 @@ Two packaging formats in seven colors, with exploded views and vendor guides.
 
 B01 · A 2 × 2 m booth concept in Espresso and Ivory.
 
-[Browse renders, floor plans and catalog](03.%20Booth%20Design/)
-
 ## 04. Cards Design
 
 | D04 · Open Portal | D06 · Framework |
@@ -50,8 +33,6 @@ B01 · A 2 × 2 m booth concept in Espresso and Ivory.
 | <img src="04.%20Cards%20Design/3D%20Mockups/02.%20D04%20Saddle%20Brown.png" alt="D04 Open Portal card mockup" width="480"> | <img src="04.%20Cards%20Design/3D%20Mockups/09.%20D06%20Saddle%20Brown.png" alt="D06 Framework card mockup" width="480"> |
 
 Two card designs in seven Saddle Signature colors.
-
-[14 mockups](04.%20Cards%20Design/3D%20Mockups/) · [28 front and back print files](04.%20Cards%20Design/Soft%20File/)
 
 ## 05. Color Palette
 
@@ -61,37 +42,23 @@ Two card designs in seven Saddle Signature colors.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | `#3F281F` | `#8B5A3C` | `#C59A70` | `#E3D3BD` | `#F6F0E7` | `#000000` | `#FFFFFF` |
 
-[Open palette](05.%20Color%20Palette/)
-
 ## 06. Logo
 
 Symbols, wordmarks and transparent versions.
 
-[Browse 14 logo assets](06.%20Logo/)
+| White on black | Brown on black | Black on white | Brown on white |
+| :---: | :---: | :---: | :---: |
+| <img src="06.%20Logo/01.%20Logo%20Putih.png" alt="White symbol on black" width="220"> | <img src="06.%20Logo/02.%20Logo%20Cokelat%20BG%20Hitam.png" alt="Brown symbol on black" width="220"> | <img src="06.%20Logo/05.%20Logo%20Hitam.png" alt="Black symbol on white" width="220"> | <img src="06.%20Logo/06.%20Logo%20Cokelat.png" alt="Brown symbol on white" width="220"> |
+| <img src="06.%20Logo/03.%20Logo%20Putih%20Nama.png" alt="White wordmark on black" width="220"> | <img src="06.%20Logo/04.%20Logo%20Cokelat%20Nama%20BG%20Hitam.png" alt="Brown wordmark on black" width="220"> | <img src="06.%20Logo/07.%20Logo%20Hitam%20Nama.png" alt="Black wordmark on white" width="220"> | <img src="06.%20Logo/08.%20Logo%20Cokelat%20Nama.png" alt="Brown wordmark on white" width="220"> |
 
 ## 07. Motion Video
 
 Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 60 fps.**
 
-| Design | 15-second video | 30-minute loop |
-| --- | :---: | :---: |
-| 13 · Silver Flow | [View MP4](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) | [View MP4](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4) |
-| 17 · Smoke Light | [View MP4](7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4) | [View MP4](7%20%20Motion%20Video/30%20Minutes/17.%20Smoke%20Light%20-%2030%20Minutes.mp4) |
-| 18 · Ivory Shine | [View MP4](7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4) | [View MP4](7%20%20Motion%20Video/30%20Minutes/18.%20Ivory%20Shine%20-%2030%20Minutes.mp4) |
-| 20 · Black Gold | [View MP4](7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4) | [View MP4](7%20%20Motion%20Video/30%20Minutes/20.%20Black%20Gold%20-%2030%20Minutes.mp4) |
-
-<details>
-<summary>Downloading the 30-minute videos</summary>
-
-The full 30-minute files use [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage). Open a video above and use the download button on its GitHub file page.
-
-For a local Git clone, install Git LFS, then run:
-
-```sh
-git lfs pull
-```
-
-</details>
+| 13 · Silver Flow | 17 · Smoke Light | 18 · Ivory Shine | 20 · Black Gold |
+| :---: | :---: | :---: | :---: |
+| <a href="7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4"><img src=".github/readme/video-17-smoke-light.jpg" alt="Smoke Light motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4"><img src=".github/readme/video-18-ivory-shine.jpg" alt="Ivory Shine motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4"><img src=".github/readme/video-20-black-gold.jpg" alt="Black Gold motion video" width="220"></a> |
+| [15 s](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/17.%20Smoke%20Light%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/18.%20Ivory%20Shine%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/20.%20Black%20Gold%20-%2030%20Minutes.mp4) |
 
 ## Asset Index
 
