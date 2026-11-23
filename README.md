@@ -48,8 +48,6 @@ Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 6
 
 <a href="06.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
 
-13 · Silver Flow · [15 s](06.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](06.%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
-
 ## 07. Logo
 
 Symbols, wordmarks and transparent versions.
