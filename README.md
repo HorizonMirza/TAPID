@@ -52,9 +52,9 @@ Symbols, wordmarks and transparent versions.
 
 Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 60 fps.**
 
-<a href="7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
+<a href="7.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
 
-13 · Silver Flow · [15 s](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
+13 · Silver Flow · [15 s](7.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7.%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
 
 ## Asset Index
 
@@ -66,7 +66,7 @@ Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 6
 | [04. Cards Design](04.%20Cards%20Design/) | Mockups and front/back print files | 42 |
 | [05. Color Palette](05.%20Color%20Palette/) | Saddle Signature palette | 1 |
 | [06. Logo](06.%20Logo/) | Symbols, wordmarks and transparent versions | 14 |
-| [07. Motion Video](7%20%20Motion%20Video/) | Four short videos and four exhibition loops | 8 |
+| [07. Motion Video](7.%20Motion%20Video/) | Four short videos and four exhibition loops | 8 |
 | **Total** | **107 PNG · 6 SVG · 4 PDF · 8 MP4** | **125** |
 
 [Open Google Drive](https://drive.google.com/drive/folders/1gf0f-z-4uAVuuePL4lLbPGWla0QeRjrs)
