@@ -2,7 +2,7 @@
 
 Brand and product design assets for TAP ID, featuring the Saddle Signature palette.
 
-[Casing](#01-casing-card-design) · [Packaging](#02-packaging-design) · [Booth](#03-booth-design) · [Cards](#04-cards-design) · [Palette](#05-color-palette) · [Logo](#06-logo) · [Motion](#07-motion-video)
+[Casing](#01-casing-card-design) · [Packaging](#02-packaging-design) · [Booth](#03-booth-design) · [Cards](#04-cards-design) · [Palette](#05-color-palette) · [Motion](#06-motion-video) · [Logo](#07-logo)
 
 ## 01. Casing Card Design
 
@@ -42,19 +42,19 @@ Two card designs in seven Saddle Signature colors.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | `#3F281F` | `#8B5A3C` | `#C59A70` | `#E3D3BD` | `#F6F0E7` | `#000000` | `#FFFFFF` |
 
-## 06. Logo
-
-Symbols, wordmarks and transparent versions.
-
-<img src="06.%20Logo/08.%20Logo%20Cokelat%20Nama.png" alt="TAP ID brown wordmark logo" width="480">
-
-## 07. Motion Video
+## 06. Motion Video
 
 Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 60 fps.**
 
-<a href="7.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
+<a href="06.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
 
-13 · Silver Flow · [15 s](7.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7.%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
+13 · Silver Flow · [15 s](06.%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](06.%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
+
+## 07. Logo
+
+Symbols, wordmarks and transparent versions.
+
+<img src="07.%20Logo/08.%20Logo%20Cokelat%20Nama.png" alt="TAP ID brown wordmark logo" width="480">
 
 ## Asset Index
 
@@ -65,8 +65,8 @@ Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 6
 | [03. Booth Design](03.%20Booth%20Design/) | Renders, floor plans and catalog | 5 |
 | [04. Cards Design](04.%20Cards%20Design/) | Mockups and front/back print files | 42 |
 | [05. Color Palette](05.%20Color%20Palette/) | Saddle Signature palette | 1 |
-| [06. Logo](06.%20Logo/) | Symbols, wordmarks and transparent versions | 14 |
-| [07. Motion Video](7.%20Motion%20Video/) | Four short videos and four exhibition loops | 8 |
+| [06. Motion Video](06.%20Motion%20Video/) | Four short videos and four exhibition loops | 8 |
+| [07. Logo](07.%20Logo/) | Symbols, wordmarks and transparent versions | 14 |
 | **Total** | **107 PNG · 6 SVG · 4 PDF · 8 MP4** | **125** |
 
 [Open Google Drive](https://drive.google.com/drive/folders/1gf0f-z-4uAVuuePL4lLbPGWla0QeRjrs)
