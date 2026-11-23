@@ -46,19 +46,15 @@ Two card designs in seven Saddle Signature colors.
 
 Symbols, wordmarks and transparent versions.
 
-| White on black | Brown on black | Black on white | Brown on white |
-| :---: | :---: | :---: | :---: |
-| <img src="06.%20Logo/01.%20Logo%20Putih.png" alt="White symbol on black" width="220"> | <img src="06.%20Logo/02.%20Logo%20Cokelat%20BG%20Hitam.png" alt="Brown symbol on black" width="220"> | <img src="06.%20Logo/05.%20Logo%20Hitam.png" alt="Black symbol on white" width="220"> | <img src="06.%20Logo/06.%20Logo%20Cokelat.png" alt="Brown symbol on white" width="220"> |
-| <img src="06.%20Logo/03.%20Logo%20Putih%20Nama.png" alt="White wordmark on black" width="220"> | <img src="06.%20Logo/04.%20Logo%20Cokelat%20Nama%20BG%20Hitam.png" alt="Brown wordmark on black" width="220"> | <img src="06.%20Logo/07.%20Logo%20Hitam%20Nama.png" alt="Black wordmark on white" width="220"> | <img src="06.%20Logo/08.%20Logo%20Cokelat%20Nama.png" alt="Brown wordmark on white" width="220"> |
+<img src="06.%20Logo/08.%20Logo%20Cokelat%20Nama.png" alt="TAP ID brown wordmark logo" width="480">
 
 ## 07. Motion Video
 
 Four portrait 3D motion designs with music and scan effects. **1080 × 1920 · 60 fps.**
 
-| 13 · Silver Flow | 17 · Smoke Light | 18 · Ivory Shine | 20 · Black Gold |
-| :---: | :---: | :---: | :---: |
-| <a href="7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4"><img src=".github/readme/video-17-smoke-light.jpg" alt="Smoke Light motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4"><img src=".github/readme/video-18-ivory-shine.jpg" alt="Ivory Shine motion video" width="220"></a> | <a href="7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4"><img src=".github/readme/video-20-black-gold.jpg" alt="Black Gold motion video" width="220"></a> |
-| [15 s](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/17.%20Smoke%20Light%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/17.%20Smoke%20Light%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/18.%20Ivory%20Shine%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/18.%20Ivory%20Shine%20-%2030%20Minutes.mp4) | [15 s](7%20%20Motion%20Video/15%20Seconds/20.%20Black%20Gold%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/20.%20Black%20Gold%20-%2030%20Minutes.mp4) |
+<a href="7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4"><img src=".github/readme/video-13-silver-flow.jpg" alt="Silver Flow motion video" width="320"></a>
+
+13 · Silver Flow · [15 s](7%20%20Motion%20Video/15%20Seconds/13.%20Silver%20Flow%20-%2015%20Seconds.mp4) · [30 min](7%20%20Motion%20Video/30%20Minutes/13.%20Silver%20Flow%20-%2030%20Minutes.mp4)
 
 ## Asset Index
 
